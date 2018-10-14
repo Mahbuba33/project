@@ -173,6 +173,9 @@ footer{
 	text-decoration: none;
 	padding-left: 15px;
 }
+.foot_nav ul li a:hover{
+	color:gray;
+}
 .social{
 	float: right;
 }
