@@ -140,7 +140,7 @@ input[type="email"]{
 	text-align: center;
 	margin: 150px 0;
 }
-button{
+.load{
 	padding: 15px 30px;
 	color: #626262;
 	background-color: #FFFFFF;
@@ -148,8 +148,8 @@ button{
 	font-size:20px;
 	cursor: pointer;
 }
-button:hover{
-	border: 2px solid black;
+.load:hover{
+	border: 1px solid black;
 	color: black;
 }
 footer{
