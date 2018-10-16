@@ -188,7 +188,11 @@ footer{
 }
 .social ul li a{
 	text-decoration: none;
-	color: black;
+	color: #626262;
 	padding-right: 15px;
 	font-size: 16px;
 }
+.social ul li a:hover{
+	color:black;
+}
+
